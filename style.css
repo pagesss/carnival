@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Bebas Neue', cursive;
+}
+
+
+.navbar{
+    padding: 20px 500px;
+    background: linear-gradient(to right, rgb(242, 112, 156), rgb(255, 148, 114));
+}
+
+.barradesordenada{
+    display: flex;
+    justify-content: space-between;
+}
+
+.barraordenada{
+    display: flex;
+    text-decoration: none;
+    text-align: center;
+}
+
+
+.cadaboton{
+    text-decoration: none;
+    color: black;
+    transition: 0.2s;
+    font-family: "Fredoka", sans-serif;
+}
+
+.cadaboton:hover{
+    color: white;
+    transition: 0.2s;
+}
+
+.videoyoutube{
+    display: flex;
+    justify-content: center;
+    padding: 30px 30px;
+}
+
+.textodelvideo{
+    padding: 30px 20px;
+}
+
+.parrafo1textodelvideo{
+    text-align: center;
+}
+
