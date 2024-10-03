@@ -1,0 +1,22 @@
+@media (max-width: 400px) {
+    .navbar {
+        padding: 10px 80px;
+        max-height: 50px;
+    }
+
+
+    .cadaboton{
+        font-size: 12px;
+    }
+
+    .videoyoutube{
+        background-color: red;
+        padding: 10px 10px;
+    }
+
+    .videoingles{
+        max-width: 100px;
+        max-height: 100px;
+    }
+}
+

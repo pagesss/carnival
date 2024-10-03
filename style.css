@@ -6,8 +6,8 @@
 
 
 .navbar{
-    padding: 20px 500px;
-    background: linear-gradient(to right, rgb(242, 112, 156), rgb(255, 148, 114));
+    padding: 20px 600px;
+    box-shadow: 10px 10px 10px gray;
 }
 
 .barradesordenada{
@@ -30,7 +30,7 @@
 }
 
 .cadaboton:hover{
-    color: white;
+    color: #e84a5f;
     transition: 0.2s;
 }
 
@@ -38,6 +38,7 @@
     display: flex;
     justify-content: center;
     padding: 30px 30px;
+    box-shadow: 10px 10px 10px gray;
 }
 
 .textodelvideo{
@@ -45,6 +46,72 @@
 }
 
 .parrafo1textodelvideo{
+    text-align: center;
+}
+
+.integrantes1{
+    padding-top: 80px;
+    padding-left: 500px;
+    padding-right: 500px;
+    padding-bottom: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.estudiante1{
+    text-align: center;
+}
+
+.integrantes2{
+    padding-top: 80px;
+    padding-left: 500px;
+    padding-right: 500px;
+    padding-bottom: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.estudiante2{
+    text-align: center;
+}
+
+.integrantes3{
+    padding-top: 80px;
+    padding-left: 500px;
+    padding-right: 500px;
+    padding-bottom: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.estudiante3{
+    text-align: center;
+}
+
+.futer{
+    padding: 30px 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+}
+
+.piefoto{
+    max-width: 100px;
+    max-height: 100px;
+
+}
+
+.cuerpocarnival{
+    background-color: red;
+    padding: 40px 200px;
+    text-align: center;
+}
+
+.textos{
     text-align: center;
 }
 
